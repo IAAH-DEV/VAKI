@@ -1,11 +1,4 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/28614996/213689693-f157f90c-b8f2-437f-bb91-d57b8d5e2acc.png#gh-light-mode-only" width="400px">
-  <img src="https://user-images.githubusercontent.com/28614996/213689857-1720a8b7-adc2-43b0-97b0-9a58658e0165.png#gh-dark-mode-only" width="400px">
-</p>
-
-<hr />
-
-<p align="center">
   Voice Communicational AI
 <p>
 
@@ -33,8 +26,8 @@
 You can also set up this project locally to play with it, contribute to it or hack it to your heart's content. Simply clone it, install dependencies then start the dev server.
 
 ```bash
-git clone https://github.com/.git
-cd chatgpt-voice
+git clone https://github.com/IAAH-DEV/VAKI.git
+cd VAKI
 npm install
 npm run dev
 ```
